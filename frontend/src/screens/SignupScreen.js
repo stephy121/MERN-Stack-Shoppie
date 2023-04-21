@@ -54,7 +54,7 @@ export default function SignupScreen() {
       <h1 className="my-3">Sign Up</h1>
       <Form onSubmit={submitHandler}>
         <Form.Group className="mb-3" controlId="name">
-          <Form.Label>Name</Form.Label>
+          <Form.Label>Full Name</Form.Label>
           <Form.Control onChange={(e) => setName(e.target.value)} required />
         </Form.Group>
         <Form.Group className="mb-3" controlId="email">
