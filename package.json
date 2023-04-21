@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stephy121/Shoppie.git"
+    "url": "git+https://github.com/stephy121/MERN-Stack-Shoppie.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stephy121/Shoppie/issues"
+    "url": "https://github.com/stephy121/MERN-Stack-Shoppie/issues"
   },
-  "homepage": "https://github.com/stephy121/Shoppie#readme"
+  "homepage": "https://github.com/stephy121/MERN-Stack-Shoppie#readme"
 }
