@@ -17,7 +17,6 @@ mongoose
   .catch((err) => {
     console.log(err.message);
   });
-const express = require('express');
 
 const app = express();
 
